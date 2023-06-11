@@ -1,10 +1,12 @@
-# FL-HB-1421
+# FL-HB-1421 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7045460468269809664/))
 
 ## Overview
 
 This contains the LinkedIn posts I wrote for the Florida bill, [CS/HB 1421](https://www.flsenate.gov/Session/Bill/2023/1421).
 
 This bill is a proposed bill that effectively bans trans individuals in the state of Florida. 
+
+Final Post: [final.md](final.md)
 
 ## Prompts and Responses
 
