@@ -60,6 +60,8 @@ This contains the follow up for the [LinkedIn posts I wrote](https://www.linkedi
 
 ## Response 2: 
 
+This is also [draft.md](draft.md)
+
 > Absolutely, I understand you want to keep the casual and conversational tone of your original post. Here's an attempt to do so while incorporating the suggestions:
 >
 >>"Hey, y'all! Quick update: I'm now living it up in Seattle, WA, having left Florida due to the recent laws that've been rough on our trans and queer communities. If you're around, let's definitely meet up!
