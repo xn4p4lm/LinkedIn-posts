@@ -4,6 +4,8 @@
 
 This contains the follow up for the [LinkedIn posts I wrote](https://www.linkedin.com/feed/update/urn:li:activity:7045460468269809664/) for Florida bill [CS/HB 1421](https://www.flsenate.gov/Session/Bill/2023/1421). While this bill was rejected. Additional bills that were passed made life in florida increasingly uncertain, worriesome, and left a feeling of my safety was in danger.
 
+Final Post [final.md](final.md)
+
 # Prompts
 
 ## Inital Prompt: 
