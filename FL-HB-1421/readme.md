@@ -6,6 +6,8 @@ This contains the LinkedIn posts I wrote for the Florida bill, [CS/HB 1421](http
 
 This bill is a proposed bill that effectively bans trans individuals in the state of Florida. 
 
+Final Post: [final.md](final.md)
+
 ## Prompts and Responses
 
 ### 1st Prompt:
