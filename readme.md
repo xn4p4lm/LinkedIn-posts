@@ -8,7 +8,7 @@ This repo is a collection of my attemps at using [ChatGPT-4](https://chat.openai
 
 I mostly use ChatGPT in a few ways: 
 
--  To help biuld a framework and outline on complicated topics, and then we write / modify it to suit my voice better
+-  To help build a framework and outline on complicated topics, and then we write / modify it to suit my voice better
 - To rewrite my post into a proper post instead of a stream of conciousness style of post
 
 I've been using this for a while, and I've found it to be a great way to get started on a LinkedIn post, especially when I'm not sure where to start. 
